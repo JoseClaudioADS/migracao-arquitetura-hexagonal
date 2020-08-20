@@ -12,7 +12,7 @@
         "test": "cross-env NODE_ENV=test jest -i"
     },
     "dependencies": {
-        "bcrypt": "^4.0.1",
+        "bcrypt": "^5.0.0",
         "cors": "^2.8.5",
         "date-fns": "^2.12.0",
         "dotenv": "^8.2.0",
